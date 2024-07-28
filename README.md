@@ -6,5 +6,5 @@ IIT Transportion System Mapping Using QGIS
 
 # Catchment Area At All Intersection Points
 
-![image](https://github.com/kumar306Ankit/QGIS/assets/102457011/e69992d2-60e9-4743-b291-1cf8fd87f4db)
+![image](https://github.com/user-attachments/assets/bb36abf6-c4c5-4d5c-a3d3-c8bfd3725b59)
 
